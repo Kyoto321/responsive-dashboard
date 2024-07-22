@@ -1,0 +1,33 @@
+
+
+.dataGrid {
+    background: #fff;
+    padding: 20px;
+
+}
+
+.MuiDataGrid-toolbarContainer {
+    flex-direction: row-reverse;
+}
+
+
+.MuiDataGrid-toolbarContainer img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.action {
+    display: flex;
+    gap: 15px;
+}
+
+
+.action img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    
+}
